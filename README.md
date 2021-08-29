@@ -2,6 +2,7 @@
 
 <img width="1789" alt="스크린샷 2021-08-29 오후 9 48 21" src="https://user-images.githubusercontent.com/39258902/131250879-48918fc9-c3ec-4a22-b459-c41ff8ef3844.png">
 
+
 <p>iOS HIG 한글 정리본입니다.</p>
 <p> 100% 본인이 직접 번역한 것이기에, 오역이 있다면 이슈에 남겨주시면 감사하겠습니다. </p>
 
@@ -16,3 +17,12 @@
 - [Onboarding](https://blog.naver.com/0_0yeggy/222488146822)
 - [Loading](https://blog.naver.com/0_0yeggy/222488154189)
 - [Modality](https://blog.naver.com/0_0yeggy/222488202366)
+
+
+
+
+<div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeahsilver/iOS-Human-Interface-Guidelines-Korean)](https://hits.seeyoufarm.c022om) 
+	
+</div>
