@@ -18,6 +18,8 @@
 - [Loading](https://blog.naver.com/0_0yeggy/222488154189)
 - [Modality](https://blog.naver.com/0_0yeggy/222488202366)
 - [Navigation](https://blog.naver.com/0_0yeggy/222488296920)
+- [Accessing User Data](https://blog.naver.com/0_0yeggy/222489540662)
+- [Settings](https://blog.naver.com/0_0yeggy/222489574906)
 
 
 
