@@ -26,7 +26,8 @@
 - [3D Touch](https://blog.naver.com/0_0yeggy/222490702492)
 - [Apple Pencil and Scribble](https://blog.naver.com/0_0yeggy/222490748769)
 - [Audio](https://blog.naver.com/0_0yeggy/222492043170)
-
+- [Authetication](https://blog.naver.com/0_0yeggy/222492819663)
+- [Data Entry](https://blog.naver.com/0_0yeggy/222493058771)
 <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeahsilver/iOS-Human-Interface-Guidelines-Korean)](https://hits.seeyoufarm.c022om) 
