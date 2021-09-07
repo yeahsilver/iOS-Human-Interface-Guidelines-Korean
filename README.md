@@ -31,6 +31,10 @@
 - [Drag and Drop](https://blog.naver.com/0_0yeggy/222493989231)
 - [Feedback](https://blog.naver.com/0_0yeggy/222494257029)
 - [File Handling](https://blog.naver.com/0_0yeggy/222494280294)
+- [Game Controllers](https://blog.naver.com/0_0yeggy/222498707930)
+- [Gestures](https://blog.naver.com/0_0yeggy/222498743941)
+
+
 <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeahsilver/iOS-Human-Interface-Guidelines-Korean)](https://hits.seeyoufarm.c022om) 
