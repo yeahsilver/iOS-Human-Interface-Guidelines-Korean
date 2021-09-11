@@ -33,6 +33,7 @@
 - [File Handling](https://blog.naver.com/0_0yeggy/222494280294)
 - [Game Controllers](https://blog.naver.com/0_0yeggy/222498707930)
 - [Gestures](https://blog.naver.com/0_0yeggy/222498743941)
+- [Haptics](https://blog.naver.com/0_0yeggy/222502846362)
 
 
 <div align=center>
